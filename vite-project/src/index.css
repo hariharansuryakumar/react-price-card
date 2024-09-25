@@ -1,0 +1,7 @@
+
+.btn {
+  width :320px;
+  height: auto;
+  border-radius :50px;
+  -ms-grid-row-align: center;
+}
